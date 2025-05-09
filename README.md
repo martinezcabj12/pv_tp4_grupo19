@@ -5,6 +5,7 @@
 ---
 
 Integrantes:
+
 - BRISA ANAHÍ BARRO [GitHub](https://github.com/BarroBrisa)
 - DARIO ABEL MARTINEZ [GitHub](https://github.com/martinezcabj12)
 - MARCELO FERNANDO ORTIZ [GitHub](https://github.com/marceortiz)
@@ -16,7 +17,7 @@ Integrantes:
 ## Consignas
 
 - Agregar un producto: desde un formulario, se completan los datos y se guarda el
-producto.
+  producto.
 - Buscar un producto: mediante una barra de búsqueda (por descripción o ID).
 - Modificar un producto: seleccionando uno de la lista, se pueden cambiar sus datos.
 - Eliminar un producto: opción para borrar productos de la lista.
@@ -26,9 +27,9 @@ producto.
 - useState: Manejar estados de productos, edición y búsqueda.
 - useEffect: Mostrar por consola los cambios que se producen en el array de productos
 - useMemo: Para optimizar el filtrado de productos según el término de búsqueda,
-evitando cálculos innecesarios en cada render.
+  evitando cálculos innecesarios en cada render.
 - useCallback: Para definir funciones como agregar, editar, eliminar y buscar productos
-sin que se vuelvan a recrear en cada render, mejorando el rendimiento.
+  sin que se vuelvan a recrear en cada render, mejorando el rendimiento.
 
 ## Componentes Sugeridos
 
